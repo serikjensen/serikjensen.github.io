@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{inyf:function(e,n,t){"use strict";t.r(n);t("q1tI");var s=t("vrFN"),i=t("Bl7J"),c=t("qKvR");n.default=function(){return Object(c.e)(i.a,null,Object(c.e)(s.a,{title:"Design Systems"}),Object(c.e)("h1",null,"Design Systems"))}}}]);
+//# sourceMappingURL=component---src-pages-design-systems-js-f05a1a0461f905e0b6df.js.map
